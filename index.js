@@ -264,13 +264,18 @@ async function startXeonBotInc() {
             try {
                 const botNumber = XeonBotInc.user.id.split(':')[0] + '@s.whatsapp.net';
                 await XeonBotInc.sendMessage(botNumber, {
-                    text: `🤖 Bot Connected Successfully!\n\n⏰ Time: ${new Date().toLocaleString()}\n✅ Status: Online and Ready!\n\n✅Make sure to join below channel`,
+                    text: `🚀 *TOM PRIME X BOT CONNECTED!* 🚀\n\n` +
+                      `👑 *Owner:* TOM-PRIME-X\n` +
+                      `📂 *GitHub:* https://github.com/TOM-PRIME-X/TOM-PRIME-X-BOT\n` +
+                      `📺 *YouTube:* https://youtube.com/@saycotom\n\n` +
+                      `⏰ *Time:* ${new Date().toLocaleString('en-GB', { timeZone: 'Asia/Dhaka' })}\n` +
+                      `✅ *Status:* Online and Ready!`,
                     contextInfo: {
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363161513685998@newsletter',
-                            newsletterName: 'KnightBot MD',
+                            newsletterJid: '',
+                            newsletterName: '𝐓𝐎𝐌 𝐏𝐑𝐈𝐌𝐄 𝐗',
                             serverMessageId: -1
                         }
                     }
