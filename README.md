@@ -18,7 +18,7 @@
 
 ### 🚀 **𝐐𝐮𝐢𝐜𝐤 𝐂𝐨𝐧𝐧𝐞𝐜𝐭**
 * **Developer:** Tom Prime X
-* **Location:** Dhaka, Bangladesh 🇧🇩
+* **Location:** Dhaka, Bangladesh 
 * **GitHub:** [TOM-PRIME-X](https://github.com/TOM-PRIME-X/TOM-PRIME-X-BOT)
 * **YouTube:** [@saycotom](https://youtube.com/@saycotom?si=i3lUfsDI2F2-Zo6e)
 
@@ -44,9 +44,10 @@
 ### 🛠️ **𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲**
 
 1. **Fork this Repository**
-2. ****
+2. **Go to setting.js**
 3. **Set Environment Variables:**
    ```env
-   SESSION_ID = "YOUR_SESSION_HERE"
-   OWNER_NUMBER = "8801892625209"
-   PREFIX = "."
+   BOT_NAME     =𝐓𝐎𝐌 𝐏𝐑𝐈𝐌𝐄 𝐗 𝐁𝐎𝐓
+   BOT_OWNER    =𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐓𝐎𝐌 𝐗
+   OWNER_NUMBER = "880**********"
+   
