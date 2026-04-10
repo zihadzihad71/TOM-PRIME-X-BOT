@@ -285,12 +285,12 @@ async function startXeonBotInc() {
             }
 
             await delay(1999)
-            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${global.botname || '𝐓𝐎𝐌 𝐏𝐑𝐈𝐌𝐄 𝐗 𝐁𝐎𝐓'} ]`)}\n\n`))
+            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${global.botname || 'TOM PRIME X BOT'} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: MR UNIQUE HACKER`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: mrunqiuehacker`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} WA NUMBER: ${owner}`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: MR UNIQUE HACKER`))
+            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: SAYCO TOM`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: TOM-PRIME-X`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} WA NUMBER: 8801892625209`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: PROFESSOR TOM`))
             console.log(chalk.green(`${global.themeemoji || '•'} 🤖 Bot Connected Successfully! ✅`))
             console.log(chalk.blue(`Bot Version: ${settings.version}`))
         }
