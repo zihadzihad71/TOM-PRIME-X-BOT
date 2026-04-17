@@ -21,6 +21,7 @@ async function helpCommand(sock, chatId, message) {
    ● ADMIN TERMINAL
    ┝ .ban
    ┝ .kick
+   ┝ .kickall
    ┝ .promote
    ┝ .demote
    ┝ .mute
