@@ -50,7 +50,7 @@ async function helpCommand(sock, chatId, message) {
    ┝ .antiforeign
 
    ● NEURAL AI HUB
-   ┝ *NEW* .bot 🤖
+   ┝ .bot
    ┝ .gpt
    ┝ .gemini
    ┝ .imagine
