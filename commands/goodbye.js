@@ -28,7 +28,6 @@ async function handleLeaveEvent(sock, id, participants) {
             const participantString = typeof participant === 'string' ? participant : (participant.id || participant.toString());
             const userJid = participantString.split('@')[0];
             
-            // ১৭টি র্যান্ডম মেসেজ (Attitude + Funny)
             const goodbyeMessages = [
                 `বিদায় @${userJid} 👋। সিস্টেম থেকে একজন দুর্বল মেম্বার রিমুভ হলো।`,
                 `@${userJid} গেট আউট! এই গ্রুপে থাকার যোগ্যতা সবার থাকে না। 💀`,
